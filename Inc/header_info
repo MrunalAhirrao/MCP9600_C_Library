@@ -1,0 +1,3 @@
+This folder has header files related to MCP9600. Files like: MCP9600.h and MCP9600_cfg.h
+1. MCP9600.h: This file has public interfaces provided by MCP9600 library
+2. MCP9600_cfg.h: This file has wrapper functions for driver APIs. Whenever a different microcontroller platform is used, the driver functions used in this file has to be replaced.
