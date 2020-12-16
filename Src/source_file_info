@@ -1,0 +1,3 @@
+This folder has source files related to MCP9600 library. The files are:
+1. MCP9600.c: This file has public interfaces provided by MCP9600 Library
+2. MCP9600_cfg.c: This file has definition of wrapper functions used on top of driver APIs. Whenever microcontroller(platform) changes, just replace the driver APIs here with new ones.
